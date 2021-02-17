@@ -228,19 +228,19 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/zmsp.js"
         },
         {
-            "id": "zqyd",
+            "id": "zq",
             "name": "中青阅读",
             "keys": ["youth_autoread", "autotime_zq"],
             "author": "@xiaomiejiang",
             "settings": [{
-                    "id": "zqydSuffix",
+                    "id": "zqSuffix",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
                     "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
                 },
                 {
-                    "id": "zqydCount",
+                    "id": "zqCount",
                     "name": "账号个数",
                     "val": "1",
                     "type": "number",
