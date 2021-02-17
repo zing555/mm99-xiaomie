@@ -204,11 +204,11 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/sfk.js"
         },
         {
-            "id": "zmsp",
-            "name": "芝嫲视频",
-            "keys": ["zmurl", "zmhd", "zmbody"],
-            "author": "@xiaomiejiang",
-            "settings": [{
+              "id": "zmsp",
+              "name": "芝嫲视频",
+              "keys": ["zmurl", "zmhd", "zmbody"],
+              "author": "@xiaomiejiang",
+              "settings": [{
                     "id": "zmspsetting",
                     "name": "当前账号",
                     "val": "1",
@@ -221,7 +221,7 @@
                     "val": "1",
                     "type": "number",
                     "desc": "需要几个账号，数字为几"
-                 }
+                }
             ],
             "repo": "https://raw.githubusercontent.com/age174/-/main/zmsp.js",
             "icons": ["https://s3.ax1x.com/2021/02/06/yYzeWn.png", "https://s3.ax1x.com/2021/02/06/yYzeWn.png"],
