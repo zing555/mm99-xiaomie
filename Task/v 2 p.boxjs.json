@@ -65,7 +65,7 @@
             "keys": ["zmurl", "zmhd", "zmbody"],
             "author": "@xiaomiejiang",
             "settings": [{
-                    "id": "sfkSuffix",
+                    "id": "zhimaSuffix",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
