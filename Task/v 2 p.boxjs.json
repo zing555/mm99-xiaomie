@@ -84,28 +84,28 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/zmsp.js"
         },
         {
-            "id": "sfk",
-            "name": "刷福卡",
-            "keys": ["sfkurl", "skfhd", "sfkbody"],
+            "id": "jqb",
+            "name": "金钱豹",
+            "keys": ["jqburl", "jqbhd", "jqbggbody", "jqbqdbody", "jqbbody1", "jqbbody2", "jqbbody3", "jqbbody4", "jqbbody5", "jqbrwbody", "jqbzpbody"],
             "author": "@xiaomiejiang",
             "settings": [{
-                    "id": "sfkSuffix",
+                    "id": "jqbSuffix",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
                     "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
                 },
                 {
-                    "id": "sfkCount",
+                    "id": "jqbCount",
                     "name": "账号个数",
                     "val": "1",
                     "type": "number",
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/sfk.js",
-            "icons": ["https://raw.githubusercontent.com/age174/-/main/38600B49-DE8D-40CE-9BD2-09825DE8FB95.jpeg", "https://raw.githubusercontent.com/age174/-/main/38600B49-DE8D-40CE-9BD2-09825DE8FB95.jpeg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/sfk.js"
+            "repo": "https://raw.githubusercontent.com/age174/-/main/jqb.js",
+            "icons": ["https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png", "https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/jqb.js"
         },
         {
             "id": "liwo",
