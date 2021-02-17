@@ -10,14 +10,14 @@
             "keys": ["ymzurl", "ymzhd", "ymzurl1", "ymzhd1", "ymzbody", "ymzbody1", "ymzbody2"],
             "author": "@ziye",
             "settings": [{
-                    "id": "xlSuffix",
+                    "id": "yangmaozhuanSuffix",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
                     "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
                 },
                 {
-                    "id": "xlCount",
+                    "id": "yangmaozhuanCount",
                     "name": "账号个数",
                     "val": "1",
                     "type": "number",
@@ -32,7 +32,7 @@
             "id": "duokandian",
             "name": "多看点APP",
             "keys": ["duokandianbody", "duokandianvideobody","duokandianbody2", "duokandianvideobody2","duokandianbody3", "duokandianvideobody3","duokandianbody4", "duokandianvideobody4","duokandianbody5", "duokandianvideobody5","duokandianbody6", "duokandianvideobody6","duokandianbody7", "duokandianvideobody7","duokandianbody8", "duokandianvideobody8","duokandianbody9", "duokandianvideobody9","duokandianbody10", "duokandianvideobody10","duokandianbody11", "duokandianvideobody11","duokandianbody12", "duokandianvideobody12","duokandianbody13", "duokandianvideobody13","duokandianbody14", "duokandianvideobody14","duokandianbody15", "duokandianvideobody15","duokandianbody16", "duokandianvideobody16","duokandianbody17", "duokandianvideobody17","duokandianbody18", "duokandianvideobody18","duokandianbody19", "duokandianvideobody19","duokandianbody20", "duokandianvideobody20"],
-            "author": "@ziye",
+            "author": "@xiaomiejiang",
             "settings": [{
                     "id": "duokandianSuffix",
                     "name": "当前账号",
@@ -62,8 +62,8 @@
         {
             "id": "zhima",
             "name": "芝嫲视频",
-            "keys": ["zhimabody", "zhimabody2", "zhimabody3", "zhimabody4", "zhimabody5", "zhimabody6", "zhimabody7", "zhimabody8", "zhimabody9", "zhimabody10", "zhimabody11", "zhimabody12", "zhimabody13", "zhimabody14", "zhimabody15", "zhimabody16", "zhimabody17", "zhimabody18", "zhimabody19", "zhimabody20"],
-            "author": "@ziye",
+            "keys": ["zmurl", "zmhd", "zmbody"],
+            "author": "@xiaomiejiang",
             "settings": [{
                     "id": "zhimaSuffix",
                     "name": "当前账号",
@@ -79,9 +79,9 @@
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.js",
-            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.png"],
-            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.js"
+            "repo": "https://raw.githubusercontent.com/age174/-/main/zmsp.js",
+            "icons": ["https://s3.ax1x.com/2021/02/06/yYzeWn.png", "https://s3.ax1x.com/2021/02/06/yYzeWn.png"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/zmsp.js"
         }
     ]
 }
