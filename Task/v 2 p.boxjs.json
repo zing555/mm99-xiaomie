@@ -1,9 +1,9 @@
 {
-    "id": "ziye.app.sub",
-    "name": "ziye 脚本订阅",
-    "author": "@ZIYE",
+    "id": "xiaomiejiang.app.sub",
+    "name": "v2p 脚本订阅",
+    "author": "@xiaomiejiang",
     "icon": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/ziye.png",
-    "repo": "https://github.com/ziye66666",
+    "repo": "https://github.com/xiaomiejiang99",
     "apps": [{
             "id": "qczjspeed",
             "name": "汽车之家极速版",
