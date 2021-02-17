@@ -60,9 +60,9 @@
             "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js"
         },
         {
-            "id": "sfk",
-            "name": "刷福卡",
-            "keys": ["sfkurl", "sfkhd", "sfkbody"],
+            "id": "zhima",
+            "name": "芝嫲",
+            "keys": ["zmurl", "zmhd", "zmbody"],
             "author": "@xiaomiejiang",
             "settings": [{
                     "id": "sfkSuffix",
