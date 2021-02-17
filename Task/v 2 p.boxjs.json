@@ -206,7 +206,7 @@
         {
             "id": "sfk",
             "name": "刷福卡",
-            "keys": ["sfkurl", "skfhd", "sfkbody"],
+            "keys": ["sfkurl", "sfkhd", "sfkbody"],
             "author": "@xiaomiejiang",
             "settings": [{
                     "id": "sfkSuffix",
