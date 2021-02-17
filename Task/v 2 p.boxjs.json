@@ -60,12 +60,12 @@
             "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js"
         },
         {
-            "id": "zhima",
-            "name": "芝嫲视频",
-            "keys": ["zmurl", "zmhd", "zmbody"],
+            "id": "sfk",
+            "name": "刷福卡",
+            "keys": ["sfkurl", "sfkhd", "sfkbody"],
             "author": "@xiaomiejiang",
             "settings": [{
-                    "id": "zhimaSuffix",
+                    "id": "sfkSuffix",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
