@@ -84,28 +84,28 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/zmsp.js"
         },
         {
-            "id": "yangmaozhuan",
-            "name": "羊毛赚",
-            "keys": ["ymzurl", "ymzhd", "ymzurl1", "ymzhd1", "ymzbody", "ymzbody1", "ymzbody2"],
+            "id": "sfk",
+            "name": "刷福卡",
+            "keys": ["sfkurl", "skfhd", "sfkbody"],
             "author": "@xiaomiejiang",
             "settings": [{
-                    "id": "yangmaozhuanSuffix",
+                    "id": "sfkSuffix",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
                     "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
                 },
                 {
-                    "id": "yangmaozhuanCount",
+                    "id": "sfkCount",
                     "name": "账号个数",
                     "val": "1",
                     "type": "number",
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/ymz.js",
-            "icons": ["https://s3.ax1x.com/2021/02/06/yYzYWR.png", "https://s3.ax1x.com/2021/02/06/yYzYWR.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ymz.js"
+            "repo": "https://raw.githubusercontent.com/age174/-/main/sfk.js",
+            "icons": ["https://raw.githubusercontent.com/age174/-/main/38600B49-DE8D-40CE-9BD2-09825DE8FB95.jpeg", "https://raw.githubusercontent.com/age174/-/main/38600B49-DE8D-40CE-9BD2-09825DE8FB95.jpeg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/sfk.js"
         },
         {
             "id": "yangmaozhuan",
