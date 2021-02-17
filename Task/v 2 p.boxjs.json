@@ -62,7 +62,7 @@
         {
             "id": "zhima",
             "name": "芝嫲视频",
-            "keys": ["zmurl", "zmhd", "zmbody"],
+            "keys": ["ymzurl", "ymzhd", "ymzurl1", "ymzhd1", "ymzbody", "ymzbody1", "ymzbody2"],
             "author": "@xiaomiejiang",
             "settings": [{
                     "id": "zhimaSuffix",
