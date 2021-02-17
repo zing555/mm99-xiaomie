@@ -5,9 +5,9 @@
     "icon": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/IMG_5501.JPG",
     "repo": "https://github.com/xiaomiejiang99",
     "apps": [{
-            "id": "xiaole",
-            "name": "小乐",
-            "keys": ["xiaoleurl", "xiaolehd", "xiaoleurl2", "xiaolehd2", "xiaoleurl3", "xiaolehd3", "xiaoleurl4", "xiaolehd4", "xiaoleurl5", "xiaolehd5", "xiaoleurl6", "xiaolehd6", "xiaoleurl7", "xiaolehd7", "xiaoleurl8", "xiaolehd8", "xiaoleurl9", "xiaolehd9", "xiaoleurl10", "xiaolehd10"],
+            "id": "yangmaozhuan",
+            "name": "羊毛赚",
+            "keys": ["ymzurl", "ymzhd", "ymzurl1", "ymzhd1", "ymzbody", "ymzbody1", "ymzbody2"],
             "author": "@ziye",
             "settings": [{
                     "id": "xlSuffix",
