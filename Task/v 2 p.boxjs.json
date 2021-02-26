@@ -149,29 +149,95 @@
             "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js"
         },
         {
-            "id": "sfk",
-            "name": "刷福卡",
-            "keys": ["sfkurl", "sfkhd", "sfkbody"],
+            "id": "qczjspeed",
+            "name": "汽车之家极速版",
+            "keys": ["GetUserInfoheader", "taskbody", "activitybody", "addCoinbody", "addCoin2body"],
             "author": "@xiaomiejiang",
             "settings": [{
-                    "id": "sfkSuffix",
+                    "id": "qczjSuffix",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
                     "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
                 },
                 {
-                    "id": "sfkCount",
+                    "id": "qczjCount",
                     "name": "账号个数",
                     "val": "1",
                     "type": "number",
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "qczjCASH",
+                    "name": "提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0不提现，可设置0 0.5 2 5 10 20 "
+                },
+                {
+                    "id": "qczjCASHTIME",
+                    "name": "提现时间",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "默认0点后提现，可设置 0 ~ 23  "
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/sfk.js",
-            "icons": ["https://raw.githubusercontent.com/age174/-/main/B6690880-AA3D-4C02-90E9-FADCFFFFC55D.jpeg", "https://raw.githubusercontent.com/age174/-/main/B6690880-AA3D-4C02-90E9-FADCFFFFC55D.jpeg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/sfk.js"
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/qczjspeed.js",
+            "icons": ["https://raw.githubusercontent.com/Orz-3/task/master/qczj.png", "https://raw.githubusercontent.com/Orz-3/task/master/qczj.png"],
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/qczjspeed.js"
         },
+        {
+            "id": "iboxpay",
+            "name": "笑谱",
+            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3"],
+            "author": "@ziye",
+            "settings": [{
+                    "id": "iboxpaySuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                },
+                {
+                    "id": "iboxpayCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "iboxpayLIVE",
+                    "name": "任务控制",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0开启视频，关闭直播，1开启直播，开启视频，2开启直播，关闭视频，666开启直播，开启视频，开启新人180秒任务，888开启直播，开启视频，开启新人2天双倍 "
+                },
+                {
+                    "id": "iboxpayCASH",
+                    "name": "提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0不提现，可设置 0 1 15 30 100  "
+                },
+                {
+                    "id": "iboxpayphone",
+                    "name": "手机号",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "请输入完整手机号"
+                },
+                {
+                    "id": "iboxpaysms",
+                    "name": "验证码",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "输入短信验证码，默认为0，不启动获取token功能"
+                }
+            ],
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js",
+            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.png"],
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js"
+        },   
         {
             "id": "zmsp",
             "name": "芝嫲视频",
@@ -197,28 +263,43 @@
             "script": "https://raw.githubusercontent.com/age174/-/main/zmsp.js"
         },
         {
-            "id": "sz",
-            "name": "闪挣",
-            "keys": ["szurl", "szhd"],
-            "author": "@xiaomiejiang",
+            "id": "flw",
+            "name": "返利网",
+            "keys": ["flwurl", "flwheader", "flwspbody", "flwqwbody", "flwydbody"],
+            "author": "@ziye",
             "settings": [{
-                    "id": "szSuffix",
+                    "id": "flwSuffix",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
                 },
                 {
-                    "id": "szCount",
+                    "id": "flwCount",
                     "name": "账号个数",
                     "val": "1",
                     "type": "number",
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "flwCASH",
+                    "name": "天天领现金提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "默认0，设置0.3及以上时启动天天领现金模块，且大于等于此值时自动提现"
+                },
+                {
+                    "id": "flwDHCASH",
+                    "name": "兑换标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "默认0，可设置设置 0 5 50 100"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/age174/-/main/sz.js",
-            "icons": ["https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg", "https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/sz.js"
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js",
+            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.png"],
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js"
+        },
         }
     ]
 }
