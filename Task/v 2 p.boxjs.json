@@ -10,18 +10,18 @@
             "keys": ["ymzurl", "ymzhd", "ymzbody", "ymzbody1", "ymztxbody", "ymzurl2", "ymzhd2", "ymzbody2", "ymzbody12", "ymztxbody2"],
             "author": "@xiaomiejiang",
             "settings": [{
-            "id": "yangmaozhuanSuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "id": "yangmaozhuanSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
             },
             {
-            "id": "yangmaozhuanCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "yangmaozhuanCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             }
             ],
             "repo": "https://raw.githubusercontent.com/age174/-/main/ymz.js",
@@ -34,18 +34,18 @@
             "keys": ["jqburl", "jqbhd", "jqbggbody", "jqbqdbody", "jqbbody1", "jqbbody2", "jqbbody3", "jqbbody4", "jqbbody5", "jqbrwbody", "jqbzpbody"],
             "author": "@xiaomiejiang",
             "settings": [{
-            "id": "jqbSuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "id": "jqbSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
             },
             {
-            "id": "jqbCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "jqbCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             }
             ],
             "repo": "https://raw.githubusercontent.com/age174/-/main/jqb.js",
@@ -58,18 +58,18 @@
             "keys": ["CookieJD", "Body"],
             "author": "@xiaomiejiang",
             "settings": [{
-            "id": "liwoSuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "id": "liwoSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
             },
             {
-            "id": "liwoCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "liwoCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             }
             ],
             "repo": "https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js",
@@ -82,18 +82,18 @@
             "keys": ["rlurl", "rlheader", "rlbody"],
             "author": "@xiaomiejiang",
             "settings": [{
-            "id": "ranlvSuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "id": "ranlvSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
             },
             {
-            "id": "ranlvCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "ranlvCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             }
             ],
             "repo": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js",
@@ -106,18 +106,18 @@
             "keys": ["bbb_ck"],
             "author": "@xiaomiejiang",
             "settings": [{
-            "id": "bbbSuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "id": "bbbSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
             },
             {
-            "id": "bbbCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "bbbCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             }
             ],
             "repo": "https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js",
@@ -130,18 +130,18 @@
             "keys": ["cookie_ks"],
             "author": "@xiaomiejiang",
             "settings": [{
-            "id": "ksqdSuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "id": "ksqdSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
             },
             {
-            "id": "ksqdCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "ksqdCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             }
             ],
             "repo": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js",
@@ -154,32 +154,32 @@
             "keys": ["GetUserInfoheader", "taskbody", "activitybody", "addCoinbody", "addCoin2body"],
             "author": "@xiaomiejiang",
             "settings": [{
-            "id": "qczjSuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "id": "qczjSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
             },
             {
-            "id": "qczjCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "qczjCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             },
             {
-            "id": "qczjCASH",
-            "name": "提现标准",
-            "val": "0",
-            "type": "number",
-            "desc": "0不提现，可设置0 0.5 2 5 10 20 "
+                    "id": "qczjCASH",
+                    "name": "提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0不提现，可设置0 0.5 2 5 10 20 "
             },
             {
-            "id": "qczjCASHTIME",
-            "name": "提现时间",
-            "val": "0",
-            "type": "number",
-            "desc": "默认0点后提现，可设置 0 ~ 23  "
+                    "id": "qczjCASHTIME",
+                    "name": "提现时间",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "默认0点后提现，可设置 0 ~ 23  "
             }
             ],
             "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/qczjspeed.js",
@@ -192,46 +192,46 @@
             "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3"],
             "author": "@ziye",
             "settings": [{
-            "id": "iboxpaySuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "id": "iboxpaySuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
             },
             {
-            "id": "iboxpayCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "iboxpayCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             },
             {
-            "id": "iboxpayLIVE",
-            "name": "任务控制",
-            "val": "0",
-            "type": "number",
-            "desc": "0开启视频，关闭直播，1开启直播，开启视频，2开启直播，关闭视频，666开启直播，开启视频，开启新人180秒任务，888开启直播，开启视频，开启新人2天双倍 "
+                    "id": "iboxpayLIVE",
+                    "name": "任务控制",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0开启视频，关闭直播，1开启直播，开启视频，2开启直播，关闭视频，666开启直播，开启视频，开启新人180秒任务，888开启直播，开启视频，开启新人2天双倍 "
             },
             {
-            "id": "iboxpayCASH",
-            "name": "提现标准",
-            "val": "0",
-            "type": "number",
-            "desc": "0不提现，可设置 0 1 15 30 100  "
+                    "id": "iboxpayCASH",
+                    "name": "提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0不提现，可设置 0 1 15 30 100  "
             },
             {
-            "id": "iboxpayphone",
-            "name": "手机号",
-            "val": "0",
-            "type": "number",
-            "desc": "请输入完整手机号"
+                    "id": "iboxpayphone",
+                    "name": "手机号",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "请输入完整手机号"
             },
             {
-            "id": "iboxpaysms",
-            "name": "验证码",
-            "val": "0",
-            "type": "number",
-            "desc": "输入短信验证码，默认为0，不启动获取token功能"
+                    "id": "iboxpaysms",
+                    "name": "验证码",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "输入短信验证码，默认为0，不启动获取token功能"
             }
             ],
             "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js",
@@ -244,18 +244,18 @@
             "keys": ["zmurl", "zmhd", "zmbody"],
             "author": "@xiaomiejiang",
             "settings": [{
-            "id": "zmspsetting",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
+                    "id": "zmspsetting",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前账号对应"
             },
             {
-            "id": "zmspcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
+                    "id": "zmspcount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "需要几个账号，数字为几"
             }
             ],
             "repo": "https://raw.githubusercontent.com/age174/-/main/zmsp.js",
@@ -268,32 +268,32 @@
             "keys": ["flwurl", "flwheader", "flwspbody", "flwqwbody", "flwydbody"],
             "author": "@ziye",
             "settings": [{
-            "id": "flwSuffix",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+                    "id": "flwSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
             },
             {
-            "id": "flwCount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    "id": "flwCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
             },
             {
-            "id": "flwCASH",
-            "name": "天天领现金提现标准",
-            "val": "0",
-            "type": "number",
-            "desc": "默认0，设置0.3及以上时启动天天领现金模块，且大于等于此值时自动提现"
+                    "id": "flwCASH",
+                    "name": "天天领现金提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "默认0，设置0.3及以上时启动天天领现金模块，且大于等于此值时自动提现"
             },
             {
-            "id": "flwDHCASH",
-            "name": "兑换标准",
-            "val": "0",
-            "type": "number",
-            "desc": "默认0，可设置设置 0 5 50 100"
+                    "id": "flwDHCASH",
+                    "name": "兑换标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "默认0，可设置设置 0 5 50 100"
             }
             ],
             "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js",
@@ -306,25 +306,25 @@
             "keys": ["fqkkurl", "fqkkhd","fqkkurl2","fqkkhd2","fqkkurl3","fqkkhd3"],
             "author": "@feizao",
             "settings": [{
-            "id": "fqkkstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
+                    "id": "fqkkstatus",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前账号对应"
             },
             {
-            "id": "fqkkcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
+                    "id": "fqkkcount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "需要几个账号，数字为几"
             },
             {
-            "id": "fqtx",
-            "name": "提现金额",
-            "val": "100",
-            "type": "number",
-            "desc": "需要自动提现多少，数字为金额的一百倍，如提现0.3元填写30，默认100为提现1元,最低提现额度为0.3元"
+                    "id": "fqtx",
+                    "name": "提现金额",
+                    "val": "100",
+                    "type": "number",
+                    "desc": "需要自动提现多少，数字为金额的一百倍，如提现0.3元填写30，默认100为提现1元,最低提现额度为0.3元"
             }
             ],
             "repo": "https://github.com/age174/-/blob/main/fqkk.js",
@@ -337,18 +337,18 @@
             "keys": ["mhurl", "mhhd"],
             "author": "@feizao",
             "settings": [{
-            "id": "mhstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
+                    "id": "mhstatus",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前账号对应"
             },
             {
-            "id": "mhcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
+                    "id": "mhcount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "需要几个账号，数字为几"
             } 
             ],
             "repo": "https://github.com/age174/-/blob/main/mhdsp.js",
@@ -361,13 +361,13 @@
             "keys": ["rxmurl", "rxmhd"],
             "author": "@feizao",
             "settings": [{
-            "id": "rxmstatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-    },
-    {
+                    "id": "rxmstatus",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前账号对应"
+            },
+            {
             "id": "rxmcount",
             "name": "账号个数",
             "val": "1",
@@ -385,25 +385,25 @@
             "keys": ["signurl", "signkey", "farmurl", "farmkey", "readurl", "readkey"],
             "author": "@ZhiYi-N",
             "settings": [{
-            "id": "tz",
-            "name": "静默运行",
-            "val": "1",
-            "type": "number",
-            "desc": "0为不通知，1为全部通知"
+                    "id": "tz",
+                    "name": "静默运行",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "0为不通知，1为全部通知"
             },
             {
-            "id": "jrttsetting",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
+                    "id": "jrttsetting",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前账号对应"
             },
             {
-            "id": "jrttcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
+                    "id": "jrttcount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "需要几个账号，数字为几"
            }
            ],
            "repo": "https://github.com/ZhiYi-N/script/blob/master/jrtt.js",
@@ -416,63 +416,63 @@
            "keys": ["TTrefer", "TTbody"],
            "author": "@ZhiYi-N",
            "settings": [{
-           "id": "tz",
-           "name": "静默运行",
-           "val": "1",
-           "type": "number",
-           "desc": "0为不通知，1为全部通知"
+                   "id": "tz",
+                   "name": "静默运行",
+                   "val": "1",
+                   "type": "number",
+                   "desc": "0为不通知，1为全部通知"
            },
            {
-           "id": "TTstatus",
-           "name": "当前账号",
-           "val": "1",
-           "type": "number",
-           "desc": "当前账号对应"
+                   "id": "TTstatus",
+                   "name": "当前账号",
+                   "val": "1",
+                   "type": "number",
+                   "desc": "当前账号对应"
            },      
            {
-           "id": "TTcount",
-           "name": "账号个数",
-           "val": "1",
-           "type": "number",
-           "desc": "需要几个账号，数字为几"
+                   "id": "TTcount",
+                   "name": "账号个数",
+                   "val": "1",
+                   "type": "number",
+                   "desc": "需要几个账号，数字为几"
            }
            ],
            "repo": "https://github.com/ZhiYi-N/Private-Script/blob/master/Scripts/TT.js",
            "icons": ["https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/TT-mini.png", "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/TT.png"],
            "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js"
-  },
-  {
+     },
+     {
            "id": "huoshan",
            "name": "抖音火山版",
            "keys": ["hsurl", "hsheader", "hsbody", "playurl", "playheader", "playbody", "hsurl2", "hsheader2", "hsbody2", "playurl2", "playheader2", "playbody2"],
            "author": "@ZhiYi-N",
            "settings": [{
-           "id": "tz",
-           "name": "静默运行",
-           "val": "1",
-           "type": "number",
-           "desc": "0为不通知，1为全部通知"
+                   "id": "tz",
+                   "name": "静默运行",
+                   "val": "1",
+                   "type": "number",
+                   "desc": "0为不通知，1为全部通知"
            },
            {
-           "id": "hsstatus",
-           "name": "当前账号",
-           "val": "1",
-           "type": "number",
-           "desc": "当前账号对应"
+                   "id": "hsstatus",
+                   "name": "当前账号",
+                   "val": "1",
+                   "type": "number",
+                   "desc": "当前账号对应"
            },
            {
-           "id": "hscount",
-           "name": "账号个数",
-           "val": "1",
-           "type": "number",
-           "desc": "需要几个账号，数字为几"
+                   "id": "hscount",
+                   "name": "账号个数",
+                   "val": "1",
+                   "type": "number",
+                   "desc": "需要几个账号，数字为几"
            }
            ],
            "repo": "https://github.com/ZhiYi-N/script/blob/master/huoshan.js",
            "icons": ["https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/hs-mini.png", "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/hs.png"],
            "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js"
-   },
-   {
+     },
+     {
            "id": "jx_tokens",
            "name": "京喜tokens",
            "keys": ["jx_tokens"],
@@ -480,15 +480,14 @@
            "请勿随意在输入框修改内容，建议通过脚本去获取Token，若要修改，请按照 JSON 数组格式修改。",
            "脚本地址【<a href=\"https://github.com/whyour/hundun/blob/master/quanx/jx_tokens.js\">京喜多账号Token获取</a>】,并按照此脚本注释进行配置"
            ],
-           "settings": [
-           {
-           "id": "jx_tokens",
-           "name": "Tokens",
-           "val": "",
-           "type": "textarea",
-           "autoGrow": true,
-           "rows": 8,
-           "desc": "Tokens 列表 (JSON 数组格式)"
+           "settings": [{
+                   "id": "jx_tokens",
+                   "name": "Tokens",
+                   "val": "",
+                   "type": "textarea",
+                   "autoGrow": true,
+                   "rows": 8,
+                   "desc": "Tokens 列表 (JSON 数组格式)"
            }
            ],
            "author": "@whyour",
@@ -496,20 +495,19 @@
            "script": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js",
            "icons": [
            "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign_mini.png",
-           "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign.png"
-   },
-   {
+           "https://raw.githubusercontent.com/58xinian/icon/master/jx_sign.png" ]
+     },
+     {
            "id": "jd_ddxw",
            "name": "东东小窝",
-           "settings": [
+           "settings": [{
+                   "id": "xw_showLog",
+                   "name": "日志开关",
+                   "val": false,
+                   "type": "boolean",
+                   "desc": "是否打开接口返回详情日志打印，默认关闭"
+           },
            {
-           "id": "xw_showLog",
-           "name": "日志开关",
-           "val": false,
-           "type": "boolean",
-           "desc": "是否打开接口返回详情日志打印，默认关闭"
-   },
-   {
            "id": "jd_wob_lottery",
            "name": "窝币抽奖",
            "val": false,
@@ -522,26 +520,25 @@
            "script": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddwx.js",
            "icons": [
            "https://raw.githubusercontent.com/58xinian/icon/master/ddxw_mini.png",
-           "https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png"]
-   },
-   {
+           "https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png"
+     },
+     {
            "id": "jdkc",
            "name": "京东库存查询",
            "keys": ["jd_skuIds", "jd_areaId"],
-           "settings": [
+           "settings": [{
+                   "id": "jd_skuIds",
+                   "name": "商品id",
+                   "val": "",
+                   "type": "text",
+                   "desc": "填写商品id，多个商品以英文逗号分隔，获取方法参考脚本头部说明."]
+           },
            {
-           "id": "jd_skuIds",
-           "name": "商品id",
-           "val": "",
-           "type": "text",
-           "desc": "填写商品id，多个商品以英文逗号分隔，获取方法参考脚本头部说明."]
-   },
-   {
-          "id": "jd_areaId",
-          "name": "地区id",
-          "val": "",
-          "type": "text",
-          "desc": "填写收货地址id，获取方法参考脚本头部说明."
+                   "id": "jd_areaId",
+                   "name": "地区id",
+                   "val": "",
+                   "type": "text",
+                   "desc": "填写收货地址id，获取方法参考脚本头部说明."
           }
           ],
           "author": "@whyour",
@@ -550,8 +547,8 @@
           "icons": [
           "https://raw.githubusercontent.com/58xinian/icon/master/jddj.png",
           "https://raw.githubusercontent.com/58xinian/icon/master/jddj.png"]
-  },
-  {
+    },
+    {
           "id": "jx_gc",
           "name": "京喜工厂",
           "settings": [
@@ -561,15 +558,15 @@
           "val": false,
           "type": "boolean",
           "desc": "是否打开接口返回详情日志打印，默认关闭"
-   },
-   {
+    },
+    {
           "id": "gc_autoCharge",
           "name": "自动充能",
           "val": true,
           "type": "boolean",
           "desc": "收取能量后自动充能，默认不自动充"
-   },
-   {
+    },
+    {
           "id": "gc_notifyTime",
           "name": "京喜工厂通知时间",
           "val": "",
@@ -583,19 +580,18 @@
           "icons": [
           "https://raw.githubusercontent.com/58xinian/icon/master/jdgc_mini.png",
           "https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png"]
-  },
-  {
+    },
+    {
           "id": "jx_cfd",
           "name": "京喜财富岛",
-          "settings": [
-          {
-          "id": "cfd_showLog",
-          "name": "日志开关",
-          "val": false,
-          "type": "boolean",
-          "desc": "是否打开接口返回详情日志打印，默认关闭"
-  },
-  {
+          "settings": [{
+                  "id": "cfd_showLog",
+                  "name": "日志开关",
+                  "val": false,
+                  "type": "boolean",
+                  "desc": "是否打开接口返回详情日志打印，默认关闭"
+     },
+     {
           "id": "cfd_notifyTime",
           "name": "京喜财富岛通知时间",
           "val": "",
@@ -609,17 +605,16 @@
           "icons": [
           "https://raw.githubusercontent.com/58xinian/icon/master/jxcfd_mini.png",
           "https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"]
-  },
-  {
+     },
+     {
           "id": "jx_nc",
           "name": "京喜农场",
-          "settings": [
-          {
-          "id": "nc_showLog",
-          "name": "日志开关",
-          "val": false,
-          "type": "boolean",
-          "desc": "是否打开接口返回详情日志打印，默认关闭"
+          "settings": [{
+                  "id": "nc_showLog",
+                  "name": "日志开关",
+                  "val": false,
+                  "type": "boolean",
+                  "desc": "是否打开接口返回详情日志打印，默认关闭"
           }
           ],
           "author": "@whyour",
@@ -628,8 +623,8 @@
           "icons": [
           "https://raw.githubusercontent.com/58xinian/icon/master/jxnc_mini.png",
           "https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png"]
-  },
-  {
+     },
+     {
            "id":"sqxh",
            "name":"书旗小说",
            "keys":[
@@ -660,354 +655,357 @@
             "icons":[
                 "https://s3.ax1x.com/2021/02/06/yYzYWR.png",
                 "https://s3.ax1x.com/2021/02/06/yYzYWR.png"
-            ],
+	    ],
             "script":"https://raw.githubusercontent.com/"
-   },
-   {
+      },
+      {
             "id": "chonghauapp",
             "name": "葱花视频",
 	    "keys": ["uid","chgetbody_video", "chgetbody_share", "chgetbody_timered", "chgetbody_taskcenter", "chgetbody_sharereward", "logbutton", "tzbutton","chgetbody_video_index"],
 	    "settings": [{
-		  "id": "chgetbody_video",
-		  "name": "请求body",
-		  "val": "",
-		  "type": "textarea",
-		  "autoGrow": false,
-		  "rows": 1,
-		  "desc": "看视频，倒计时转一圈显示金币到账。。建议看5篇视频,获取请求包"
-		  },
-		  {
-		  "id": "uid",
-		  "name": "自己的邀请码",
-		  "val": "",
-		  "type": "text",
-		  "desc": "输入才可查看账户金币明细"
-		  },
-		  {
-		  "id": "chgetbody_video_index",
-		  "name": "上次执行位置",
-		  "val": "",
-		  "type": "textarea",
-		  "autoGrow": false,
-		  "rows": 1,
-		  "desc": "记录上次执行的位置，可以控制从第几个body开始执行"
-		  },
-		  {
-		  "id": "logbutton",
-		  "name": "日志开关",
-		  "val": "",
-		  "type": "number",
-		  "desc": "0为关闭日志，1为开启，默认为关闭日志"
-		  },
-		  {
-		  "id": "tzbutton",
-		  "name": "安静开关",
-		  "val": "",
-		  "type": "number",
-		  "desc": "0为关闭通知，1为所有通知，默认为关闭通知"
-		  }
-		  ],
-		  "author": "@cenbomin",
-		  "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-		  "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
-		  "icons": ["https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
-		  "https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"]
-   },
-   {
-            "id": "txstockapp",
-	    "name": "腾旭自选股",
-	    "keys": ["signheader", "signkey", "taskheader", "taskkey", "userheader", "userkey", "wxtaskkey","cash"],
-	    "settings": [{
-		  "id": "cash",
-		  "name": "提现开关:0,不自动提现;1，提现1元；5，提现5元",
-		  "val": "",
-		  "type": "number",
-		  "desc": "默认为0,不自动提现"
-		  }
-		  ],
-		  "author": "@cenbomin",
-		  "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-		  "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
-		  "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png","https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png"]
-  },
-  {
-           "id": "jd_price_detect",
-           "name": "京东价格提醒",
-           "keys": ["tlb_jd_timeout", "tlb_jd_debug"],
-           "settings": [
-               { "id": "tlb_jd_detect_url", "name": "商品链接A", "val": "", "type": "text", "placeholder":"请在商品页获取分享链接", "desc": "请在商品页获取分享链接" },
-               { "id": "tlb_jd_detect_price", "name": "商品链接A 目标价格", "val": "", "type": "number", "placeholder":"若商品A低于该价格，则会提醒。", "desc": "" },
+		    "id": "chgetbody_video",
+		    "name": "请求body",
+		    "val": "",
+		    "type": "textarea",
+		    "autoGrow": false,
+		    "rows": 1,
+		    "desc": "看视频，倒计时转一圈显示金币到账。。建议看5篇视频,获取请求包"
+	    },
+	    {
+		    "id": "uid",
+		    "name": "自己的邀请码",
+		    "val": "",
+		    "type": "text",
+		    "desc": "输入才可查看账户金币明细"
+	    },
+	    {
+		    "id": "chgetbody_video_index",
+		    "name": "上次执行位置",
+		    "val": "",
+		    "type": "textarea",
+		    "autoGrow": false,
+		    "rows": 1,
+		    "desc": "记录上次执行的位置，可以控制从第几个body开始执行"
+	    },
+	    {
+		    "id": "logbutton",
+		    "name": "日志开关",
+		    "val": "",
+		    "type": "number",
+		    "desc": "0为关闭日志，1为开启，默认为关闭日志"
+	    },
+	    {
+		    "id": "tzbutton",
+		    "name": "安静开关",
+		    "val": "",
+		    "type": "number",
+		    "desc": "0为关闭通知，1为所有通知，默认为关闭通知"
+	     }
+	     ],
+	     "author": "@cenbomin",
+	     "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
+	     "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
+	     "icons": ["https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
+	     "https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"
+	     ]
+       },
+       {
+             "id": "txstockapp",
+	     "name": "腾旭自选股",
+	     "keys": ["signheader", "signkey", "taskheader", "taskkey", "userheader", "userkey", "wxtaskkey","cash"],
+	     "settings": [{
+		     "id": "cash",
+		     "name": "提现开关:0,不自动提现;1，提现1元；5，提现5元",
+		     "val": "",
+		     "type": "number",
+		     "desc": "默认为0,不自动提现"
+	     }
+	     ],
+	     "author": "@cenbomin",
+	     "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
+	     "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
+	     "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png","https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png"]
+      },
+      {
+             "id": "jd_price_detect",
+             "name": "京东价格提醒",
+             "keys": ["tlb_jd_timeout", "tlb_jd_debug"],
+             "settings": [
+                 { "id": "tlb_jd_detect_url", "name": "商品链接A", "val": "", "type": "text", "placeholder":"请在商品页获取分享链接", "desc": "请在商品页获取分享链接" },
+                 { "id": "tlb_jd_detect_price", "name": "商品链接A 目标价格", "val": "", "type": "number", "placeholder":"若商品A低于该价格，则会提醒。", "desc": "" },
             
-               { "id": "tlb_jd_detect_url2", "name": "商品链接B", "val": "", "type": "text", "placeholder":"请在商品页获取分享链接", "desc": "请在商品页获取分享链接" },
-               { "id": "tlb_jd_detect_price2", "name": "商品链接B 目标价格", "val": "", "type": "number", "placeholder":"若商品B低于该价格，则会提醒。", "desc": "" },
+                 { "id": "tlb_jd_detect_url2", "name": "商品链接B", "val": "", "type": "text", "placeholder":"请在商品页获取分享链接", "desc": "请在商品页获取分享链接" },
+                 { "id": "tlb_jd_detect_price2", "name": "商品链接B 目标价格", "val": "", "type": "number", "placeholder":"若商品B低于该价格，则会提醒。", "desc": "" },
             
-               { "id": "tlb_jd_detect_url3", "name": "商品链接C", "val": "", "type": "text", "placeholder":"请在商品页获取分享链接", "desc": "请在商品页获取分享链接" },
-               { "id": "tlb_jd_detect_price3", "name": "商品链接C 目标价格", "val": "", "type": "number", "placeholder":"若商品C低于该价格，则会提醒。", "desc": "" },
+                 { "id": "tlb_jd_detect_url3", "name": "商品链接C", "val": "", "type": "text", "placeholder":"请在商品页获取分享链接", "desc": "请在商品页获取分享链接" },
+                 { "id": "tlb_jd_detect_price3", "name": "商品链接C 目标价格", "val": "", "type": "number", "placeholder":"若商品C低于该价格，则会提醒。", "desc": "" },
             
-               { "id": "tlb_jd_timeout", "name": "[debug]请求超时限制 (毫秒)", "val": 3000, "type": "number", "desc": "" },
-               { "id": "tlb_jd_debug", "name": "[debug]开启调试", "val": false, "type": "boolean", "desc": ""}    
-               ],
-               "author": "@toulanboy",
-               "repo": "https://github.com/toulanboy/scripts/blob/master/jd_price_detect",
-               "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/jd.png", "https://raw.githubusercontent.com/Orz-3/task/master/jd.png"],
-               "script": "https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js"
-  }, 
-  {
-           "id": "BaiduTB",
-           "name": "百度贴吧",
-           "keys": ["CookieTB"],
-           "descs_html": [
-           "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js\">脚本注释</a></h4>"
-           ],
-           "settings": [{
-                 "id": "BDTB_DailyBonus_Mode",
-                 "name": "签到模式",
-                 "val": "0",
-                 "type": "radios",
-                 "desc": "",
-                 "items": [{
-                 "key": "0",
-                 "label": "自动切换"
-                 }, 
-	         {
-                 "key": "1",
-                 "label": "顺序执行"
-                 }, 
-	         {
-                 "key": "2",
-                 "label": "并发执行"
-                 }]
-  }, 
-  {
-          "id": "BDTB_DailyBonus_notify",
-          "name": "通知汇总",
-          "val": "",
-          "type": "number",
-          "placeholder": "默认20 (点击以展开说明)",
-          "desc": "想签到几个汇总到一个通知里, 这里就填几个(比如我有13个要签到的, 这里填了5, 就会分三次推送通知)"
-          }],
-          "script": "https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js",
-          "author": "@sazs34, @NobyDa",
-          "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
-          "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/tieba.png", "https://raw.githubusercontent.com/Orz-3/task/master/tieba.png"]
-  },
-  {
-          "id": "52poje",
-          "name": "吾爱破解",
-          "keys": ["CookieWA"],
-          "descs_html": [
-          "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js\">脚本注释</a></h4>"
-          ],
-          "script": "https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js",
-          "author": "@NobyDa",
-          "repo": "https://github.com/NobyDa/Script/blob/master/52pojie-DailyBonus/52pojie.js",
-          "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/52pj.png", "https://raw.githubusercontent.com/Orz-3/task/master/52pj.png"]
-  },
-  {
-          "id": "BAIDU",
-          "name": "百度签到",
-          "keys": ["chavy_cookie_tieba"],
-          "settings": [
-          { "id": "CFG_tieba_isOrderBars", "name": "按连签排序", "val": false, "type": "boolean", "desc": "默认按经验排序" },
-          { "id": "CFG_tieba_maxShowBars", "name": "每页显示数", "val": 15, "type": "number", "desc": "每页最显示多少个吧信息" },
-          { "id": "CFG_tieba_maxSignBars", "name": "每次并发", "val": 5, "type": "number", "desc": "每次并发签到多少个吧" },
-          { "id": "CFG_tieba_signWaitTime", "name": "并发间隔 (毫秒)", "val": 2000, "type": "number", "desc": "每次并发间隔时间" }
-          ],
-          "author": "@chavyleung",
-          "repo": "https://github.com/chavyleung/scripts/tree/master/tieba",
-          "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js",
-          "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/baidu.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png"]
-  },
-  {
-          "id": "youthZDRead",
-          "name": "中青多账号阅读",
-          "keys": ["zqgetbody_body","index","zqgetbody_body2","index2","zqgetbody_body3","index3"],
-          "author": "@jiuli",
-          "settings": [
-          {
-          "id": "zqReadLog",
-          "name": "通知",
-          "val": false,
-          "type": "boolean",
-          "desc": "通知开关，30秒一次,较频繁！建议关闭。"
-          },
-          {
-          "id": "zqReadSuffix",
-          "name": "当前账号",
-          "val": "1",
-          "type": "number",
-          "desc": "当前抓取ck记录的账号序号，如：1、2、3目前仅支持3账号"
-          },
-          {
-          "id": "zqReadCount",
-          "name": "账号个数",
-          "val": "1",
-          "type": "number",
-          "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-          }
-          ],
-          "repo": "https://raw.githubusercontent.com/jiuli12/Script/main/Youth_AutoRead.js",
-          "icons": ["https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png", "https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png"],
-          "script": "https://raw.githubusercontent.com/jiuli12/Script/main/Youth_AutoRead.js"
-  }, 
-  {
-          "author": "@sunert", 
-          "descs_html": [
-          "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
-          "<br />", 
-          "<p>其中zq_nick、zqcash和zqcard为昵称、提现金额和早起打卡开关，无需另外获取，相关项设置后自动生成，cashurl_zq和cashbody_zq为提现请求，获取后方可自动提现，可选</p>"
-          ], 
-          "keys": [
-               "zq_nick", 
-               "youthheader_zq", 
-               "read_zq", 
-               "readtime_zq", 
-               "cashurl_zq", 
-               "cashbody_zq", 
-               "zqcash", 
-               "zqcard"
-               ], 
-          "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth.js", 
-          "id": "youth", 
-          "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js", 
-          "settings": [{
-                "id": "zqcard", 
-                "val": "false", 
-                "name": "打卡赚钱", 
-                "type": "boolean", 
-                "desc": "每日打卡报名及早起打卡"
-                }, 
-                {
-                "id": "zqtime", 
-                "val": "05", 
-                "name": "打卡时间", 
-                "type": "number", 
-                "desc": "每日早起打卡时间"
-                }, 
-                {
-                "id": "delay_rotary_zq", 
-                "val": "10", 
-                "name": "转盘时间间隔", 
-                "type": "number", 
-                "desc": "间隔时间设置，如1秒填1即可"
-                }, 
-                {
-                "id": "notifytimes", 
-                "val": "", 
-                "name": "通知频率 (点击查看设置说明)", 
-                "type": "number", 
-                "desc": "设定通知频率，前三次为全部通知，之后转盘次数/设定频率整除时通知，如设置0为无通知，设置1为全部通知，设置其他数可整除余0时通知，默认值50"
-                }, 
-                {
-                "id": "zqcash", 
-                "val": "30", 
-                "name": "提现金额", 
-                "type": "radios", 
-                "desc": "自动提现金额需和获取提现请求保持一致", 
-                "items": [ {
-                "key": "10", 
-                "label": "10元"
-                 }, 
-                 {
-                 "key": "30", 
-                 "label": "30元"
-                 }, 
-                 {
-                 "key": "100", 
-                 "label": "100元"
+                 { "id": "tlb_jd_timeout", "name": "[debug]请求超时限制 (毫秒)", "val": 3000, "type": "number", "desc": "" },
+                 { "id": "tlb_jd_debug", "name": "[debug]开启调试", "val": false, "type": "boolean", "desc": ""}    
+                 ],
+              "author": "@toulanboy",
+              "repo": "https://github.com/toulanboy/scripts/blob/master/jd_price_detect",
+              "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/jd.png", "https://raw.githubusercontent.com/Orz-3/task/master/jd.png"],
+              "script": "https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js"
+       }, 
+       {
+              "id": "BaiduTB",
+              "name": "百度贴吧",
+              "keys": ["CookieTB"],
+              "descs_html": [
+              "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js\">脚本注释</a></h4>"
+              ],
+              "settings": [{
+                      "id": "BDTB_DailyBonus_Mode",
+                      "name": "签到模式",
+                      "val": "0",
+                      "type": "radios",
+                      "desc": "",
+                      "items": [{
+                      "key": "0",
+                      "label": "自动切换"
+              }, 
+	      {
+                      "key": "1",
+                      "label": "顺序执行"
+              }, 
+	      {
+                      "key": "2",
+                      "label": "并发执行"
+              }]
+        }, 
+        {
+              "id": "BDTB_DailyBonus_notify",
+              "name": "通知汇总",
+              "val": "",
+              "type": "number",
+              "placeholder": "默认20 (点击以展开说明)",
+              "desc": "想签到几个汇总到一个通知里, 这里就填几个(比如我有13个要签到的, 这里填了5, 就会分三次推送通知)"
+              }],
+              "script": "https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js",
+              "author": "@sazs34, @NobyDa",
+              "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
+              "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/tieba.png", "https://raw.githubusercontent.com/Orz-3/task/master/tieba.png"
+	      ]
+       },
+       {
+              "id": "52poje",
+              "name": "吾爱破解",
+              "keys": ["CookieWA"],
+              "descs_html": [
+              "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js\">脚本注释</a></h4>"
+              ],
+              "script": "https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js",
+              "author": "@NobyDa",
+              "repo": "https://github.com/NobyDa/Script/blob/master/52pojie-DailyBonus/52pojie.js",
+              "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/52pj.png", "https://raw.githubusercontent.com/Orz-3/task/master/52pj.png"
+              ]
+       },
+       {
+              "id": "BAIDU",
+              "name": "百度签到",
+              "keys": ["chavy_cookie_tieba"],
+              "settings": [
+                  { "id": "CFG_tieba_isOrderBars", "name": "按连签排序", "val": false, "type": "boolean", "desc": "默认按经验排序" },
+                  { "id": "CFG_tieba_maxShowBars", "name": "每页显示数", "val": 15, "type": "number", "desc": "每页最显示多少个吧信息" },
+                  { "id": "CFG_tieba_maxSignBars", "name": "每次并发", "val": 5, "type": "number", "desc": "每次并发签到多少个吧" },
+                  { "id": "CFG_tieba_signWaitTime", "name": "并发间隔 (毫秒)", "val": 2000, "type": "number", "desc": "每次并发间隔时间" }
+                  ],
+             "author": "@chavyleung",
+             "repo": "https://github.com/chavyleung/scripts/tree/master/tieba",
+             "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js",
+             "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/baidu.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png"
+	     ]
+      },
+      {
+             "id": "youthZDRead",
+             "name": "中青多账号阅读",
+             "keys": ["zqgetbody_body","index","zqgetbody_body2","index2","zqgetbody_body3","index3"],
+             "author": "@jiuli",
+             "settings": [{
+                     "id": "zqReadLog",
+                     "name": "通知",
+                     "val": false,
+                     "type": "boolean",
+                     "desc": "通知开关，30秒一次,较频繁！建议关闭。"
+            },
+            {
+                     "id": "zqReadSuffix",
+                     "name": "当前账号",
+                     "val": "1",
+                     "type": "number",
+                     "desc": "当前抓取ck记录的账号序号，如：1、2、3目前仅支持3账号"
+            },
+            {
+                     "id": "zqReadCount",
+                     "name": "账号个数",
+                     "val": "1",
+                     "type": "number",
+                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+            }
+            ],
+            "repo": "https://raw.githubusercontent.com/jiuli12/Script/main/Youth_AutoRead.js",
+            "icons": ["https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png", "https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png"],
+            "script": "https://raw.githubusercontent.com/jiuli12/Script/main/Youth_AutoRead.js"  
+       }, 
+       {
+            "author": "@sunert", 
+            "descs_html": [
+            "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
+            "<br />", 
+            "<p>其中zq_nick、zqcash和zqcard为昵称、提现金额和早起打卡开关，无需另外获取，相关项设置后自动生成，cashurl_zq和cashbody_zq为提现请求，获取后方可自动提现，可选</p>"
+            ], 
+            "keys": [
+                "zq_nick", 
+                "youthheader_zq", 
+                "read_zq", 
+                "readtime_zq", 
+                "cashurl_zq", 
+                "cashbody_zq", 
+                "zqcash", 
+                "zqcard"
+                ], 
+            "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth.js", 
+            "id": "youth", 
+            "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js", 
+            "settings": [{
+                    "id": "zqcard", 
+                    "val": "false", 
+                    "name": "打卡赚钱", 
+                    "type": "boolean", 
+                    "desc": "每日打卡报名及早起打卡"
+             }, 
+             {
+                    "id": "zqtime", 
+                    "val": "05", 
+                    "name": "打卡时间", 
+                    "type": "number", 
+                    "desc": "每日早起打卡时间"
+             }, 
+             {
+                    "id": "delay_rotary_zq", 
+                    "val": "10", 
+                    "name": "转盘时间间隔", 
+                    "type": "number", 
+                    "desc": "间隔时间设置，如1秒填1即可"
+             }, 
+             {
+                    "id": "notifytimes", 
+                    "val": "", 
+                    "name": "通知频率 (点击查看设置说明)", 
+                    "type": "number", 
+                    "desc": "设定通知频率，前三次为全部通知，之后转盘次数/设定频率整除时通知，如设置0为无通知，设置1为全部通知，设置其他数可整除余0时通知，默认值50"
+             }, 
+             {
+                    "id": "zqcash", 
+                    "val": "30", 
+                    "name": "提现金额", 
+                    "type": "radios", 
+                    "desc": "自动提现金额需和获取提现请求保持一致", 
+                    "items": [{
+                    "key": "10", 
+                    "label": "10元"
+             }, 
+             {
+                    "key": "30", 
+                    "label": "30元"
+             }, 
+             {
+                    "key": "100", 
+                    "label": "100元"
                  }
                 ]
                }
-             ], 
-          "name": "中青看点", 
-          "icons": [
-          "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
-          "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png" ]
-  }, 
-  {
-          "author": "@sunert", 
-          "keys": [
-          "youth_start", 
-          "youth_look"
-          ], 
-          "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth_gain.js", 
-          "id": "youthGain", 
-          "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js", 
-          "name": "中青浏览赚&看看赚", 
-          "icons": [
-          "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
-          "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png" ]
-  }, 
-  {
-          "author": "@sunert", 
-          "keys": [
-          "youth_autoread", 
-          "autotime_zq"
-          ], 
-          "settings": [{
-                "id": "youth_cut", 
-                "val": false, 
-                "name": "缩减请求", 
-                "type": "boolean", 
-                "desc": "自动删除收益为0或者错误的阅读请求，使用完后请立即关闭，避免清空阅读请求"
-          }
-          ],
-          "repo": "https://github.com/Sunert/Scripts/blob/master/Task/Youth_Read.js", 
-          "id": "youthRead", 
-          "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js", 
-          "name": "中青自动阅读", 
-          "icons": [
-          "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
-          "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"]
-  }, 
-  {
-          "author": "@sunert", 
-          "keys": [
-          "baidu_nick", 
-          "chavy_cookie_tieba", 
-          "CookieTB", 
-          "cash_baidu"
-          ], 
-          "repo": "https://github.com/Sunert/Scripts/blob/master/Task/baiduspeed.js", 
-          "id": "baidu", 
-          "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baiduspeed.js", 
-          "settings": [{
-             "items": [
-             {
-             "key": "5", 
-             "label": "5元"
-             }, 
-             {
-             "key": "30", 
-             "label": "30元"
-             }, 
-             {
-             "key": "50", 
-             "label": "50元"
-             }, 
-             {
-             "key": "100", 
-             "label": "100元"
-             }
-             ], 
-          "id": "cash_baidu", 
-          "val": "30", 
-          "name": "提现金额", 
-          "type": "radios", 
-          "desc": "自动提现金额"
+              ], 
+              "name": "中青看点", 
+              "icons": [
+              "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
+              "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png" ]
+              }, 
+              {
+              "author": "@sunert", 
+              "keys": [
+                  "youth_start", 
+                  "youth_look"
+              ], 
+              "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth_gain.js", 
+              "id": "youthGain", 
+              "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js", 
+              "name": "中青浏览赚&看看赚", 
+              "icons": [
+              "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
+              "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png" ]
+        }, 
+        {
+              "author": "@sunert", 
+              "keys": [
+              "youth_autoread", 
+              "autotime_zq"
+              ], 
+              "settings": [{
+                      "id": "youth_cut", 
+                      "val": false, 
+                      "name": "缩减请求", 
+                      "type": "boolean", 
+                      "desc": "自动删除收益为0或者错误的阅读请求，使用完后请立即关闭，避免清空阅读请求"
+              }
+              ],
+              "repo": "https://github.com/Sunert/Scripts/blob/master/Task/Youth_Read.js", 
+              "id": "youthRead", 
+              "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js", 
+              "name": "中青自动阅读", 
+              "icons": [
+              "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
+              "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"]
+         }, 
+         {
+              "author": "@sunert", 
+              "keys": [
+              "baidu_nick", 
+              "chavy_cookie_tieba", 
+              "CookieTB", 
+              "cash_baidu"
+              ], 
+              "repo": "https://github.com/Sunert/Scripts/blob/master/Task/baiduspeed.js", 
+              "id": "baidu", 
+              "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baiduspeed.js", 
+              "settings": [{
+                     "items": [{
+                     "key": "5", 
+                     "label": "5元"
+              }, 
+              {
+                     "key": "30", 
+                     "label": "30元"
+              }, 
+              {
+                      "key": "50", 
+                      "label": "50元"
+              }, 
+              {
+                       "key": "100", 
+                       "label": "100元"
+              }
+              ], 
+                       "id": "cash_baidu", 
+                       "val": "30", 
+                       "name": "提现金额", 
+                       "type": "radios", 
+                       "desc": "自动提现金额"
           }, 
           {
-          "id": "task_baidu", 
-          "val": true, 
-          "name": "任务开关", 
-          "type": "boolean", 
-          "desc": "除提现和兑换金币外开关，默认开启所有任务"
-          }
-          ], 
-          "name": "百度极速任务", 
-          "icons": [
-          "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed_mini.png", 
-          "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed.png" ]
+                "id": "task_baidu", 
+                "val": true, 
+                "name": "任务开关", 
+                "type": "boolean", 
+                "desc": "除提现和兑换金币外开关，默认开启所有任务"
+                }
+                ], 
+                "name": "百度极速任务", 
+                "icons": [
+                "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed_mini.png", 
+                "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed.png"
+		]
       }
      ]
     }
