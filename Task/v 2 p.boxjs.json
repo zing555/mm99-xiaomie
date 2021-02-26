@@ -7,7 +7,7 @@
     "apps": [{
             "id": "yangmaozhuan",
             "name": "羊毛赚",
-            "keys": ["ymzurl", "ymzhd", "ymzbody", "ymzbody1"],
+            "keys": ["ymzurl", "ymzhd", "ymzbody", "ymzbody1", "ymztxbody"],
             "author": "@xiaomiejiang",
             "settings": [{
                     "id": "yangmaozhuanSuffix",
@@ -27,37 +27,6 @@
             "repo": "https://raw.githubusercontent.com/age174/-/main/ymz.js",
             "icons": ["https://s3.ax1x.com/2021/02/06/yYzYWR.png", "https://s3.ax1x.com/2021/02/06/yYzYWR.png"],
             "script": "https://raw.githubusercontent.com/age174/-/main/ymz.js"
-        },
-        {
-            "id": "dkd",
-            "name": "多看点APP",
-            "keys": ["dkdurl", "dkdhd", "dkdbody", "dkdtxurl", "dkdtxhd", "dkdtxbody"],
-            "author": "@xiaomiejiang",
-            "settings": [{
-                    "id": "dkdSuffix",
-                    "name": "当前账号",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
-                },
-                {
-                    "id": "dkdCount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-                },
-                {
-                    "id": "duokandianCASH",
-                    "name": "提现标准",
-                    "val": "0",
-                    "type": "number",
-                    "desc": "0不提现，可设置 0 1 3 5 15 "
-                }
-            ],
-            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js",
-            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.png"],
-            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js"
         },
         {
             "id": "jqb",
