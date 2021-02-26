@@ -521,6 +521,7 @@
            "icons": [
            "https://raw.githubusercontent.com/58xinian/icon/master/ddxw_mini.png",
            "https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png"
+	   ]
      },
      {
            "id": "jdkc",
@@ -531,7 +532,7 @@
                    "name": "商品id",
                    "val": "",
                    "type": "text",
-                   "desc": "填写商品id，多个商品以英文逗号分隔，获取方法参考脚本头部说明."]
+                   "desc": "填写商品id，多个商品以英文逗号分隔，获取方法参考脚本头部说明."
            },
            {
                    "id": "jd_areaId",
