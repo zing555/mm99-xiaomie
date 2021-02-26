@@ -628,21 +628,14 @@
      {
            "id":"sqxh",
            "name":"书旗小说",
-           "keys":[
-                 "readck1",
-	         "receivecoinck1",
-	         "vediogoldprizeck1",
-	         "vediodrawprizeck1",
-	         "drawck1",
-	         "userinfock1",
-           ],
+           "keys":["readck1", "receivecoinck1", "vediogoldprizeck1", "vediodrawprizeck1", "drawck1", "userinfock1"],
            "author":"@caixukun1",
 	   "settings": [{
-                 "id": "sqxs",
-                 "name": "当前账号",
-                 "val": "1",
-                 "type": "number",
-                 "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                   "id": "sqxs",
+                   "name": "当前账号",
+                   "val": "1",
+                   "type": "number",
+                   "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
            },
            {
                  "id": "CountNumber",
@@ -707,13 +700,12 @@
 	     "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
 	     "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
 	     "icons": ["https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
-	     "https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"
-	     ]
+	     "https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"]
        },
        {
              "id": "txstockapp",
 	     "name": "腾旭自选股",
-	     "keys": ["signheader", "signkey", "taskheader", "taskkey", "userheader", "userkey", "wxtaskkey","cash"],
+	     "keys": ["signheader", "signkey", "taskheader", "taskkey", "userheader", "userkey", "wxtaskkey", "cash"],
 	     "settings": [{
 		     "id": "cash",
 		     "name": "提现开关:0,不自动提现;1，提现1元；5，提现5元",
@@ -726,8 +718,8 @@
 	     "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
 	     "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
 	     "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png","https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png"]
-      },
-      {
+       },
+       {
              "id": "jd_price_detect",
              "name": "京东价格提醒",
              "keys": ["tlb_jd_timeout", "tlb_jd_debug"],
@@ -748,8 +740,8 @@
               "repo": "https://github.com/toulanboy/scripts/blob/master/jd_price_detect",
               "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/jd.png", "https://raw.githubusercontent.com/Orz-3/task/master/jd.png"],
               "script": "https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js"
-       }, 
-       {
+        }, 
+        {
               "id": "BaiduTB",
               "name": "百度贴吧",
               "keys": ["CookieTB"],
@@ -782,14 +774,14 @@
               "type": "number",
               "placeholder": "默认20 (点击以展开说明)",
               "desc": "想签到几个汇总到一个通知里, 这里就填几个(比如我有13个要签到的, 这里填了5, 就会分三次推送通知)"
-              }],
+              }
+              ],
               "script": "https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js",
               "author": "@sazs34, @NobyDa",
               "repo": "https://github.com/sazs34/TaskConfig/blob/master/task/sign_baidu_tieba_v2.js",
-              "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/tieba.png", "https://raw.githubusercontent.com/Orz-3/task/master/tieba.png"
-	      ]
-       },
-       {
+              "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/tieba.png", "https://raw.githubusercontent.com/Orz-3/task/master/tieba.png"]
+        },
+        {
               "id": "52poje",
               "name": "吾爱破解",
               "keys": ["CookieWA"],
@@ -799,8 +791,7 @@
               "script": "https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js",
               "author": "@NobyDa",
               "repo": "https://github.com/NobyDa/Script/blob/master/52pojie-DailyBonus/52pojie.js",
-              "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/52pj.png", "https://raw.githubusercontent.com/Orz-3/task/master/52pj.png"
-              ]
+              "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/52pj.png", "https://raw.githubusercontent.com/Orz-3/task/master/52pj.png"]
        },
        {
               "id": "BAIDU",
@@ -815,10 +806,9 @@
              "author": "@chavyleung",
              "repo": "https://github.com/chavyleung/scripts/tree/master/tieba",
              "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js",
-             "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/baidu.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png"
-	     ]
-      },
-      {
+             "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/baidu.png", "https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png"]
+       },
+       {
              "id": "youthZDRead",
              "name": "中青多账号阅读",
              "keys": ["zqgetbody_body","index","zqgetbody_body2","index2","zqgetbody_body3","index3"],
@@ -829,47 +819,38 @@
                      "val": false,
                      "type": "boolean",
                      "desc": "通知开关，30秒一次,较频繁！建议关闭。"
-            },
-            {
+             },
+             {
                      "id": "zqReadSuffix",
                      "name": "当前账号",
                      "val": "1",
                      "type": "number",
                      "desc": "当前抓取ck记录的账号序号，如：1、2、3目前仅支持3账号"
-            },
-            {
+             },
+             {
                      "id": "zqReadCount",
                      "name": "账号个数",
                      "val": "1",
                      "type": "number",
                      "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-            }
-            ],
-            "repo": "https://raw.githubusercontent.com/jiuli12/Script/main/Youth_AutoRead.js",
-            "icons": ["https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png", "https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png"],
-            "script": "https://raw.githubusercontent.com/jiuli12/Script/main/Youth_AutoRead.js"  
+             }
+             ],
+             "repo": "https://raw.githubusercontent.com/jiuli12/Script/main/Youth_AutoRead.js",
+             "icons": ["https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png", "https://raw.githubusercontent.com/jiuli12/Script/main/image/youth.png"],
+             "script": "https://raw.githubusercontent.com/jiuli12/Script/main/Youth_AutoRead.js"  
        }, 
        {
-            "author": "@sunert", 
-            "descs_html": [
-            "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
-            "<br />", 
-            "<p>其中zq_nick、zqcash和zqcard为昵称、提现金额和早起打卡开关，无需另外获取，相关项设置后自动生成，cashurl_zq和cashbody_zq为提现请求，获取后方可自动提现，可选</p>"
-            ], 
-            "keys": [
-                "zq_nick", 
-                "youthheader_zq", 
-                "read_zq", 
-                "readtime_zq", 
-                "cashurl_zq", 
-                "cashbody_zq", 
-                "zqcash", 
-                "zqcard"
-                ], 
-            "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth.js", 
-            "id": "youth", 
-            "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js", 
-            "settings": [{
+             "author": "@sunert", 
+             "descs_html": [
+             "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://github.com/Sunert/Scripts/raw/master/TaskConf/youth/readme.md\">配置说明</a></h4>", 
+             "<br />", 
+             "<p>其中zq_nick、zqcash和zqcard为昵称、提现金额和早起打卡开关，无需另外获取，相关项设置后自动生成，cashurl_zq和cashbody_zq为提现请求，获取后方可自动提现，可选</p>"
+             ], 
+             "keys": ["zq_nick", "youthheader_zq", "read_zq", "readtime_zq", "cashurl_zq", "cashbody_zq", "zqcash", "zqcard"], 
+             "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth.js", 
+             "id": "youth", 
+             "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js", 
+             "settings": [{
                     "id": "zqcard", 
                     "val": "false", 
                     "name": "打卡赚钱", 
@@ -939,10 +920,7 @@
         }, 
         {
               "author": "@sunert", 
-              "keys": [
-              "youth_autoread", 
-              "autotime_zq"
-              ], 
+              "keys": ["youth_autoread", "autotime_zq"], 
               "settings": [{
                       "id": "youth_cut", 
                       "val": false, 
@@ -961,12 +939,7 @@
          }, 
          {
               "author": "@sunert", 
-              "keys": [
-              "baidu_nick", 
-              "chavy_cookie_tieba", 
-              "CookieTB", 
-              "cash_baidu"
-              ], 
+              "keys": ["baidu_nick", "chavy_cookie_tieba", "CookieTB", "cash_baidu"], 
               "repo": "https://github.com/Sunert/Scripts/blob/master/Task/baiduspeed.js", 
               "id": "baidu", 
               "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baiduspeed.js", 
@@ -1005,8 +978,8 @@
                 "name": "百度极速任务", 
                 "icons": [
                 "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed_mini.png", 
-                "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed.png"
-		]
+                "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed.png"]
+		
       }
      ]
     }
