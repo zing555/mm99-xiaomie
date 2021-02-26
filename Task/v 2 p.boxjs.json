@@ -7,7 +7,7 @@
     "apps": [{
             "id": "yangmaozhuan",
             "name": "羊毛赚",
-            "keys": ["ymzurl", "ymzhd", "ymzbody", "ymzbody1", "ymztxbody"],
+            "keys": ["ymzurl", "ymzhd", "ymzbody", "ymzbody1", "ymztxbody","ymzurl2", "ymzhd2", "ymzbody2", "ymzbody12", "ymztxbody2"],
             "author": "@xiaomiejiang",
             "settings": [{
                     "id": "yangmaozhuanSuffix",
