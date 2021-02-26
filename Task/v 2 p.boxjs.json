@@ -906,10 +906,7 @@
               }, 
               {
               "author": "@sunert", 
-              "keys": [
-                  "youth_start", 
-                  "youth_look"
-              ], 
+              "keys": ["youth_start", "youth_banner"], 
               "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth_gain.js", 
               "id": "youthGain", 
               "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js", 
