@@ -977,6 +977,26 @@
                 "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed_mini.png", 
                 "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed.png"]
 		
-      }
-     ]
+          }, 
+          {
+                "id":"1ymz",
+                "name":"羊毛赚",
+                "keys":["UserIDs", "watchadck1", "watchvediock1", "watchadck2", "watchvediock2", "watchadck3", "watchvediock3", "watchadck4", "watchvediock4", "watchadck5", "watchvediock5"],
+                "author":"@caixukun1",
+          	"settings": [{
+                        "id": "1ymz",
+                        "name": "设置登录账号",
+                        "val": "0",
+                        "type": "number",
+                        "desc": "输入羊毛赚8位用户id，0表示不用boxjs登录"
+                }
+                ],
+                "repo":"https://raw.githubusercontent.com/",
+                "icons":[
+                "https://s3.ax1x.com/2021/02/06/yYzYWR.png",
+                "https://s3.ax1x.com/2021/02/06/yYzYWR.png"
+                ],
+                "script":"https://raw.githubusercontent.com/"
+        }
+      ]
     }
