@@ -284,6 +284,16 @@
         } 
       },
       {
+      "name": "中青浏览赚",
+      "type": "cron",
+      "time": "33 8 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js"
+        } 
+      },
+      {
       "name": "汽车之家",
       "type": "cron",
       "time": "*/20 * * * *",
