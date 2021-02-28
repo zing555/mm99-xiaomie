@@ -130,7 +130,7 @@
       "running": true,
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js"
+        "target": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/zhima.js"
         }
       },
       {
