@@ -130,7 +130,7 @@
       "running": true,
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/zmsp.js"
+        "target": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js"
         }
       },
       {
