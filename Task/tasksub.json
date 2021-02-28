@@ -84,16 +84,6 @@
         }
       },
       {
-      "name": "番茄看看",
-      "type": "cron",
-      "time": "15 12,14,16,20 * * *",
-      "running": true,
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/age174/-/main/fqkk.js"
-        }
-      },
-      {
       "name": "走路赚点钱",
       "type": "cron",
       "time": "*/15 * * * *",
