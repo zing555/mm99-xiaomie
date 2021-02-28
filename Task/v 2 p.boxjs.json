@@ -182,9 +182,9 @@
                     "desc": "默认0点后提现，可设置 0 ~ 23  "
             }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/qczjspeed.js",
+            "repo": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/qczjspeed.js",
             "icons": ["https://raw.githubusercontent.com/Orz-3/task/master/qczj.png", "https://raw.githubusercontent.com/Orz-3/task/master/qczj.png"],
-            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/qczjspeed.js"
+            "script": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/qczjspeed.js"
         },
         {
             "id": "iboxpay",
@@ -296,9 +296,9 @@
                     "desc": "默认0，可设置设置 0 5 50 100"
             }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js",
-            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.png"],
-            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js"
+            "repo": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/flw.js",
+            "icons": ["https://github.com/xiaomiejiang99/YM/blob/main/Task/flw.png", "https://github.com/xiaomiejiang99/YM/blob/main/Task/flw.png"],
+            "script": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/flw.js"
         },
         {
             "id": "fqkk",
@@ -1012,9 +1012,39 @@
                     "desc": "0不使用，输入id模拟登录，一般为4位"
             }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ymzhuan.js",
-            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ymzhuan.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ymzhuan.png"],
-            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ymzhuan.js"
-        }
+            "repo": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/ymzhuan.js",
+            "icons": ["https://s3.ax1x.com/2021/02/06/yYzYWR.png", "https://s3.ax1x.com/2021/02/06/yYzYWR.png"],
+            "script": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/ymzhuan.js"
+        },
+        {
+            "id": "zhima",
+            "name": "芝嫲视频",
+            "keys": ["zhimabody", "zhimatxbody","zhimabody2", "zhimatxbody2","zhimabody3", "zhimatxbody3","zhimabody4", "zhimatxbody4","zhimabody5", "zhimatxbody5","zhimabody6", "zhimatxbody6","zhimabody7", "zhimatxbody7","zhimabody8", "zhimatxbody8","zhimabody9", "zhimatxbody9","zhimabody10", "zhimatxbod10y","zhimabody11", "zhimatxbody11","zhimabody12", "zhimatxbody12","zhimabody13", "zhimatxbody13","zhimabody14", "zhimatxbody14","zhimabody15", "zhimatxbody15","zhimabody16", "zhimatxbody16","zhimabody17", "zhimatxbody17","zhimabody18", "zhimatxbody18","zhimabody19", "zhimatxbody19","zhimabody20", "zhimatxbody20"],
+            "author": "@ziye",
+            "settings": [{
+                    "id": "zhimaSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+                },
+                {
+                    "id": "zhimaCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "zhimaCASH",
+                    "name": "提现标准",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0不提现，可设置 0 0.3 0.5 1 5 10 30 50 100 等"
+            }
+            ],
+            "repo": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/zhima.js",
+            "icons": ["https://s3.ax1x.com/2021/02/06/yYzeWn.png", "https://s3.ax1x.com/2021/02/06/yYzeWn.png"],
+            "script": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/zhima.js"
       ]
     }
