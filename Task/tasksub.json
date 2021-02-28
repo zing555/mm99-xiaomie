@@ -335,9 +335,9 @@
       },
       {
       "name": "疯狂joy挂机",
-      "type": "cron",
+      "type": "schedule",
       "time": "0 1",
-      "running": false,
+      "running": true,
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/jd_crazy_joy_coin.js"
@@ -351,7 +351,87 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/ymzhuan.js" 
-      }
-    } 
-  ]     
-}
+        }
+      },
+      {
+      "name": "京东汽车兑换",
+      "type": "schedule",
+      "time": "0 10",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car_exchange.js"
+        } 
+      },
+      {
+      "name": "京东超市兑换",
+      "type": "schedule",
+      "time": "0 10",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_blueCoin.js"
+        } 
+      },
+      {
+      "name": "京喜财富岛",
+      "type": "cron",
+      "time": "6 * * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js" 
+        }
+      },
+      {
+      "name": "粉丝互动",
+      "type": "cron",
+      "time": "3 10 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js" 
+        }  
+      },
+      {
+      "name": "京喜工厂plus",
+      "type": "cron",
+      "time": "0 1,18 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js" 
+        }  
+      },
+      {
+      "name": "百变大咖秀",
+      "type": "cron",
+      "time": "10 10,11 * * 2-5",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js" 
+        }  
+      },
+      {
+      "name": "百变大咖秀",
+      "type": "cron",
+      "time": "10 10,11 * * 2-5",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js" 
+        }     
+      },
+      {
+      "name": "京喜工厂助力+自动开团参团",
+      "type": "cron",
+      "time": "0/30 * * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js" 
+        } 
+      }     
+   ]     
+ }
