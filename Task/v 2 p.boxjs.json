@@ -234,9 +234,9 @@
                     "desc": "输入短信验证码，默认为0，不启动获取token功能"
             }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js",
-            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js"
+            "repo": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/iboxpay.js",
+            "icons": ["https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/iboxpay.png", "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/iboxpay.png"],
+            "script": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/iboxpay.js"
         },   
         {
             "id": "flw",
@@ -273,7 +273,7 @@
             }
             ],
             "repo": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/flw.js",
-            "icons": ["https://github.com/xiaomiejiang99/YM/blob/main/Task/flw.png", "https://github.com/xiaomiejiang99/YM/blob/main/Task/flw.png"],
+            "icons": ["https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/flw.png", "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/flw.png"],
             "script": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/flw.js"
         },
         {
