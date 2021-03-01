@@ -432,6 +432,16 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js" 
         } 
+      },
+      {
+      "name": "京东多合一签到",
+      "type": "cron",
+      "time": "7 9 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js"   
+       } 
       }     
    ]     
  }
