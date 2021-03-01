@@ -35,25 +35,6 @@
       }
     },
     {
-      "name": "Shell任务(不执行)",
-      "type": "cron",
-      "time": "10 0 * * *",
-      "running": false,
-      "job": {
-        "type": "exec",
-        "target": "python -V"
-      }
-    },
-    {
-      "name": "Shell任务(执行)",
-      "type": "schedule",
-      "time": "10",
-      "job": {
-        "type": "exec",
-        "target": "node -v"
-        }
-      },
-      {
       "name": "阅友小说",
       "type": "cron",
       "time": "15 12 * * *",
@@ -414,16 +395,6 @@
       }  
     },
     {
-      "name": "百变大咖秀",
-      "type": "cron",
-      "time": "10 10,11 * * 2-5",
-      "running": true,
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js" 
-      }     
-    },
-    {
       "name": "京喜工厂助力+自动开团参团",
       "type": "cron",
       "time": "0/30 * * * *",
@@ -441,7 +412,17 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js"   
+      } 
+    },
+    {
+      "name": "享京豆",
+      "type": "cron",
+      "time": "0 8,21 1-8/1 3 *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js"   
        } 
-      }     
+     }     
    ]     
  }
