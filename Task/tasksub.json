@@ -423,6 +423,26 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/ziye11/JavaScriptss/main/Task/bububao.js"   
       } 
+    },
+    {
+      "name": "阅友小说",
+      "type": "cron",
+      "time": "15 12 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/yyxs.js"   
+      } 
+    },
+    {
+      "name": "云扫码",
+      "type": "cron",
+      "time": "15 12,14,16,20,22 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/age174/-/main/ysm.js"
+     } 
     }     
   ]     
  }
