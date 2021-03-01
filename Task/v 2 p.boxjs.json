@@ -98,9 +98,9 @@
             ],
             "repo": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js",
             "icons": ["https://raw.githubusercontent.com/Se7eNcBoT/MyXP/master/Icons/ZhiYi/ranlv_144x.png", "https://raw.githubusercontent.com/Se7eNcBoT/MyXP/master/Icons/ZhiYi/ranlv_144x.png"],
-            "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js   
-         },
-         {
+            "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js"   
+        },
+        {
             "id": "ksqd",
             "name": "快手签到",
             "keys": ["cookie_ks"],
