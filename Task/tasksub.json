@@ -146,7 +146,7 @@
     {
       "name": "抖音火山版",
       "type": "cron",
-      "time": "*/5 0-6 * * *",
+      "time": "*/30 8-23 * * *",
       "running": true,
       "job": {
         "type": "runjs",
