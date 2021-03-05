@@ -229,8 +229,8 @@
             "script": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/flw.js"
         },
         {
-            "id": "fqkk",
-            "name": "番茄看看",
+            "id": "fqkkAPP",
+            "name": "番茄看看APP",
             "keys": ["fqkkurl", "fqkkhd","fqkkurl2","fqkkhd2","fqkkurl3","fqkkhd3"],
             "author": "@feizao",
             "settings": [{
