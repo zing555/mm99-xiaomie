@@ -772,62 +772,73 @@
               "icons": [
               "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
               "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png" ]
-         }, 
-         {
+        }, 
+        {
               "author": "@sunert", 
-              "keys": ["baidu_nick", "chavy_cookie_tieba", "CookieTB", "cash_baidu"], 
+              "keys": [
+              "baidu_nick",
+              "bdspeed",
+              "cash_baidu"
+              ], 
               "repo": "https://github.com/Sunert/Scripts/blob/master/Task/baiduspeed.js", 
-              "id": "baidu", 
+              "id": "baidu_speed", 
               "script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baiduspeed.js", 
               "settings": [{
-                     "items": [{
-                     "key": "5", 
-                     "label": "5元"
+                      "items": [{
+                      "key": "5", 
+                      "label": "5元"
               }, 
               {
-                     "key": "30", 
-                     "label": "30元"
+                      "key": "30", 
+                      "label": "30元"
               }, 
               {
                       "key": "50", 
                       "label": "50元"
               }, 
               {
-                       "key": "100", 
-                       "label": "100元"
+                      "key": "100", 
+                      "label": "100元"
               }
               ], 
-                       "id": "cash_baidu", 
-                       "val": "30", 
-                       "name": "提现金额", 
-                       "type": "radios", 
-                       "desc": "自动提现金额"
-          }, 
-          {
-                "id": "task_baidu", 
-                "val": true, 
-                "name": "任务开关", 
-                "type": "boolean", 
-                "desc": "除提现和兑换金币外开关，默认开启所有任务"
-                }
-                ], 
-                "name": "百度极速任务", 
-                "icons": [
-                "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed_mini.png", 
-                "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed.png"]
-		
+              "id": "cash_baidu", 
+              "val": "30", 
+              "name": "提现金额", 
+              "type": "radios", 
+              "desc": "自动提现金额"
+              }, 
+              {
+              "id": "task_baidu", 
+              "val": true, 
+              "name": "任务开关", 
+              "type": "boolean", 
+              "desc": "除提现和兑换金币外开关，默认开启所有任务"
+              },
+              {
+              "id": "bd_Agent", 
+              "val": true, 
+              "name": "User-Agent", 
+              "type": "textarea", 
+              "desc": "自定义百度极速版UA或者可自动获取"
+              }
+              ], 
+              "name": "百度极速任务", 
+              "icons": [
+              "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed_mini.png", 
+              "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/baiduspeed.png"
+              ]
           },
           {
-                "id": "ymzhuan",
-                "name": "羊毛赚APP",
-                "keys": ["ymzhuanggbody", "ymzhuanspbody", "ymzhuantxbody", "ymzhuanggbody2", "ymzhuanspbody2", "ymzhuantxbody2", "ymzhuanggbody3", "ymzhuanspbody3", "ymzhuantxbody3"],
-                "author": "@ziye",
-                "settings": [{
-                        "id": "ymzhuanSuffix",
-                        "name": "当前账号",
-                        "val": "1",
-                        "type": "number",
-                        "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+              "id": "ymzhuan",
+              "name": "羊毛赚APP",
+              "keys": ["ymzhuanggbody", "ymzhuanspbody", "ymzhuantxbody", "ymzhuanggbody2", "ymzhuanspbody2", "ymzhuantxbody2", "ymzhuanggbody3", "ymzhuanspbody3", "ymzhuantxbody3"],
+              "author": "@ziye",
+              "settings": [{
+                      "id": "ymzhuanSuffix",
+                      "name": "当前账号",
+                      "val": "1",
+                      "type": "number",
+                      "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
                 },
                 {
                     "id": "ymzhuanCount",
