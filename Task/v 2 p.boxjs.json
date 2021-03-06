@@ -141,7 +141,7 @@
         {
             "id": "iboxpay",
             "name": "笑谱",
-            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3"],
+            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3", "refreshtoken4"],
             "author": "@ziye",
             "settings": [{
                     "id": "iboxpaySuffix",
