@@ -1100,6 +1100,38 @@
             "repo": "https://github.com/age174/-/blob/main/ddxq.js",
             "icons": ["https://s3.ax1x.com/2021/03/04/6E5k0H.jpg", "https://s3.ax1x.com/2021/03/04/6E5k0H.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/ddxq.js"
-        }
+       },
+       {
+	    "id": "runstep",
+	    "name": "走路赚钱",
+	    "keys": ["version", "runsteptoken", "runstepkey", "txtoken", "txkey", "runsteptoken2", "runstepkey2", "txtoken2", "txkey2", "runsteptoken3", "runstepkey3", "txtoken3", "txkey3", "runsteptoken4", "runstepkey4", "txtoken4", "txkey4", "runsteptoken5", "runstepkey5", "txtoken5", "txkey5", "runsteptoken6", "runstepkey6", "txtoken6", "txkey6", "runsteptoken7", "runstepkey7", "txtoken7", "txkey7"],
+	    "settings": [{
+	            "id": "version",
+	            "name": "APP版本号:更新软件,请更改。",
+	            "val": "",
+	            "type": "text",
+	            "desc": "默认1.5.1,更新APP软件,请更改。"
+	    },
+            {
+				"id": "Suffix",
+				"name": "当前账号",
+				"val": "1",
+				"type": "number",
+				"desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+			},
+                        {
+				"id": "Count",
+				"name": "账号个数",
+				"val": "1",
+				"type": "number",
+				"desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+             }
+	     ],
+	     "author": "@cenbomin",
+	     "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
+	     "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep.js",
+	     "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep120X120.png", "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep120X120.png"
+	     ]
+         }
        ]
      }
