@@ -141,7 +141,7 @@
         {
             "id": "iboxpay",
             "name": "笑谱",
-            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3", "refreshtoken4"],
+            "keys": ["refreshtoken", "refreshtoken2", "refreshtoken3", "refreshtoken4", "refreshtoken5", "refreshtoken6", "refreshtoken7", "refreshtoken8", "refreshtoken9", "refreshtoken10", "refreshtoken11", "refreshtoken12", "refreshtoken13", "refreshtoken14", "refreshtoken15", "refreshtoken16", "refreshtoken17", "refreshtoken18", "refreshtoken19", "refreshtoken20"],
             "author": "@ziye",
             "settings": [{
                     "id": "iboxpaySuffix",
@@ -149,36 +149,36 @@
                     "val": "1",
                     "type": "number",
                     "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
-            },
-            {
+                },
+                {
                     "id": "iboxpayCount",
                     "name": "账号个数",
                     "val": "1",
                     "type": "number",
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-            },
-            {
+                },
+                {
                     "id": "iboxpayLIVE",
                     "name": "任务控制",
-                    "val": "0",
+                    "val": "1",
                     "type": "number",
-                    "desc": "0开启视频，关闭直播，1开启直播，开启视频，2开启直播，关闭视频，666开启直播，开启视频，开启新人180秒任务，888开启直播，开启视频，开启新人2天双倍 "
-            },
-            {
+                    "desc": "视频已无效，默认开启直播 "
+                },
+                {
                     "id": "iboxpayCASH",
                     "name": "提现标准",
                     "val": "0",
                     "type": "number",
-                    "desc": "0不提现，可设置 0 1 15 30 100  "
-            },
-            {
+                    "desc": "0不提现，可设置 0 1 15 30 100 888 设置888，由大至小循环提现 "
+                },
+                {
                     "id": "iboxpayphone",
                     "name": "手机号",
                     "val": "0",
                     "type": "number",
                     "desc": "请输入完整手机号"
-            },
-            {
+                },
+                {
                     "id": "iboxpaysms",
                     "name": "验证码",
                     "val": "0",
@@ -186,9 +186,9 @@
                     "desc": "输入短信验证码，默认为0，不启动获取token功能"
             }
             ],
-            "repo": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/iboxpay.js",
-            "icons": ["https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/iboxpay.png", "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/Task/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/xiaomiejiang99/YM/main/iboxpay.js"
+            "repo": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js",
+            "icons": ["https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.png", "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.png"],
+            "script": "https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js"
         },   
         {
             "id": "flw",
