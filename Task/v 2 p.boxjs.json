@@ -27,30 +27,43 @@
             "repo": "https://raw.githubusercontent.com/age174/-/main/jqb.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png", "https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png"],
             "script": "https://raw.githubusercontent.com/age174/-/main/jqb.js"
-        },
-        {
-            "id": "liwo",
-            "name": "梨涡",
-            "keys": ["CookieJD", "Body"],
-            "author": "@xiaomiejiang",
+       },
+       {
+            "id": "dyjsb",
+            "name": "抖音极速版",
+            "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey", "signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2"],
+            "author": "@ZhiYi-N",
             "settings": [{
-                    "id": "liwoSuffix",
+                    "id": "tz",
+                    "name": "静默运行",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "0为不通知，1为全部通知"
+             },
+             {
+                    "id": "dyjsbsetting",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
-                    "desc": "当前抓取ck记录的账号序号，如：1、2、4、"
+                    "desc": "当前账号对应"
             },
             {
-                    "id": "liwoCount",
+                    "id": "dyjsbaccount",
+                    "name": "支付宝账号",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "测试的为手机号，邮箱不知道"
+            },
+            {
+                    "id": "dyjsbcount",
                     "name": "账号个数",
                     "val": "1",
                     "type": "number",
-                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-            }
-            ],
-            "repo": "https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js",
-            "icons": ["https://raw.githubusercontent.com/Orz-3/task/master/liwo.png", "https://raw.githubusercontent.com/Orz-3/task/master/liwo.png"],
-            "script": "https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js"
+                    "desc": "需要几个账号，数字为几"
+            }],
+            "repo": "https://github.com/ZhiYi-N/Private-Script/blob/master/Scripts/dyjsb.js",
+            "icons": ["https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/dyjsb-mini.png", "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/dyjsb.png"],
+            "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js"
         },
         {
             "id": "ranlv",
@@ -1076,30 +1089,43 @@
             "repo": "https://github.com/age174/-/blob/main/xsmm.js",
             "icons": ["https://s3.ax1x.com/2021/03/03/6E17fU.jpg", "https://s3.ax1x.com/2021/03/03/6E17fU.jpg"],
             "script": "https://raw.githubusercontent.com/age174/-/main/xsmm.js"
-         },
-         {
-            "id": "ddxq",
-            "name": "嘀嗒星球",
-            "keys": ["ddxqurl", "ddxqhd", "ddxqggurl","ddxqurl2", "ddxqhd2", "ddxqggurl2","ddxqurl3", "ddxqhd3", "ddxqggurl3","ddxqurl4", "ddxqhd4", "ddxqggurl4","ddxqurl5", "ddxqhd5", "ddxqggurl5","ddxqurl6", "ddxqhd6", "ddxqggurl6","ddxqurl7", "ddxqhd7", "ddxqggurl7","ddxqurl8", "ddxqhd8", "ddxqggurl8","ddxqurl9", "ddxqhd9", "ddxqggurl9"],
-            "author": "@feizao",
+        },
+        {
+            "id": "hotsoon",
+            "name": "火山小视频极速版",
+            "keys": ["hotsoonsignheader", "hotsoonsignkey", "hotsoonadheader", "hotsoonadkey", "hotsoonreadheader", "hotsoonreadkey", "hotsoonsignheader2", "hotsoonsignkey2", "hotsoonadheader2", "hotsoonadkey2", "hotsoonreadheader2", "hotsoonreadkey2", "hotsoonsignheader3", "hotsoonsignkey3", "hotsoonadheader3", "hotsoonadkey3", "hotsoonreadheader3", "hotsoonreadkey3", "hotsoonsignheader4", "hotsoonsignkey4", "hotsoonadheader4", "hotsoonadkey4", "hotsoonreadheader4", "hotsoonreadkey4", "hotsoonsignheader5", "hotsoonsignkey5", "hotsoonadheader5", "hotsoonadkey5", "hotsoonreadheader5", "hotsoonreadkey5", "hotsoonsignheader6", "hotsoonsignkey6", "hotsoonadheader6", "hotsoonadkey6", "hotsoonreadheader6", "hotsoonreadkey6", "hotsoonsignheader7", "hotsoonsignkey7", "hotsoonadheader7", "hotsoonadkey7", "hotsoonreadheader7", "hotsoonreadkey7", "hotsoonsignheader8", "hotsoonsignkey8", "hotsoonadheader8", "hotsoonadkey8", "hotsoonreadheader8", "hotsoonreadkey8", "hotsoonsignheader9", "hotsoonsignkey9", "hotsoonadheader9", "hotsoonadkey9", "hotsoonreadheader9", "hotsoonreadkey9", "hotsoonsignheader10", "hotsoonsignkey10", "hotsoonadheader10", "hotsoonadkey10", "hotsoonreadheader10", "hotsoonreadkey10"],
+            "author": "@ZhiYi-N",
             "settings": [{
-                    "id": "ddxqstatus",
+                    "id": "tz",
+                    "name": "静默运行",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "0为不通知，1为全部通知"
+            },
+            {
+                    "id": "hotsoonsetting",
                     "name": "当前账号",
                     "val": "1",
                     "type": "number",
                     "desc": "当前账号对应"
             },
             {
-                    "id": "ddxqcount",
-                    "name": "账号个数",
-                    "val": "1",
-                    "type": "number",
-                    "desc": "需要几个账号，数字为几"
-            }
-            ],
-            "repo": "https://github.com/age174/-/blob/main/ddxq.js",
-            "icons": ["https://s3.ax1x.com/2021/03/04/6E5k0H.jpg", "https://s3.ax1x.com/2021/03/04/6E5k0H.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ddxq.js"
+                    "id": "hotsoonaccount",
+                    "name": "支付宝账号",
+                    "val": "0",
+                    "type": "string",
+                    "desc": "中间4位为*，例如139****0000，成功与否待测试"
+            },
+            {
+            "id": "hotsooncount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+            }],
+            "repo": "https://github.com/ZhiYi-N/Private-Script/blob/master/Scripts/hotsoon_old.js",
+            "icons": ["https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/hotsoon-mini.png", "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/hotsoon.png"],
+            "script": "https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js"
        },
        {
 	    "id": "runstep",
