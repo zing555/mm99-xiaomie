@@ -17,7 +17,7 @@ client = TelegramClient(
         'your session id',
         api_id,
         api_hash,
-        proxy=("socks5", '127.0.0.1', 7891) # 代理自行配置或去掉
+        proxy=("socks5") # 代理自行配置或去掉
         )
 
 headers = {
