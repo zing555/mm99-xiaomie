@@ -39,7 +39,7 @@ async def send_live(cks, url):
 api_id = 3424893
 api_hash = 'b0319bf481a160fda0e057664fcaa6ff'
 # 使用代理proxy
-client = TelegramClient('test', api_id, api_hash, proxy=("socks5", '127.0.0.1', 1080))
+client = TelegramClient('test', api_id, api_hash, proxy=("socks5", '150.136.51.167', 1080))
 # 不使用代理
 # client = TelegramClient('test', api_id, api_hash)
 
