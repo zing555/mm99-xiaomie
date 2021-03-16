@@ -70,8 +70,8 @@ def push():
         'text': f'直播间京豆\n\n{text}',
         'disable_web_page_preview': 'true'
         }
-    requests.post(url=f'https://api.telegram.org/bot{tg_bot_token}/sendMessage', data=msg, timeout=15,proxies=proxies).json()
-    #requests.post(url=f'https://api.telegram.org/bot{tg_bot_token}/sendMessage', data=msg, timeout=15).json()
+    #requests.post(url=f'https://api.telegram.org/bot{tg_bot_token}/sendMessage', data=msg, timeout=15,proxies=proxies).json()
+    requests.post(url=f'https://api.telegram.org/bot{tg_bot_token}/sendMessage', data=msg, timeout=15).json()
     f = open("push.txt","w")
     f.write(" ")
     f.close()
