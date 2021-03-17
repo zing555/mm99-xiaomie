@@ -13,9 +13,9 @@ tg_bot_token = '1664487395:AAG0S2o-fl0Bx5pCd-6XwIUTLQbTB_TXSEI'
 output_msg = True # 是否打印消息
 channel_white_list = [1001427039780] # 过滤频道消息
 cookies = [
-        "pt_key=AAJgNQ3cADC5h47652HLrG_bHCt7XKZppGLCXBmJbMYrunYfEf6M_Ke3rz9K4Kih2HSaE8sJVMw;pt_pin=jd_759107c713cec;",
-        "pt_key=AAJgNRLAADCPOPg9ojF8VP3da_oInF_Bg0tvzCKXlxh7bvH2KPPQDF3Fn8KL22E9NQrRLWMmsNQ;pt_pin=jd_649ec7af1a5ec;",
-        "pt_key=AAJgNRTFADAfDOKs0Z8-S39zLmowi7RkOpnFbdMqhweEESa2Uz8YtJTpPayxmsFCw2QoJiuDGCw;pt_pin=jd_VwzBlbldMHzJ;"
+        "pt_key=AAJgUY9cADDZKiBsnZ7rA3EGI0pX0PJ4jS9zJF3ne9NMtCkdrPs8VhNG3Xy5OOIodyB4YBpim8o;pt_pin=jd_649ec7af1a5ec;",
+        "pt_key=AAJgUY6GADD_KnUxJqocHDx21a6ZfGUX8YwSgWQz5wBzd8eJbtkgnDZqggv-0YbZ2NHq8W4YMsU;pt_pin=jd_759107c713cec;",
+        "pt_key=AAJgUY8QADC4j7ufZ5sjvwe4QQSEihMIYcRyftJIttRgq8ZoiZpc4DNWAo7FOWbrV6dUGmvCt-A;pt_pin=jd_VwzBlbldMHzJ;"
         ]
 
 proxies={ #tg推送用代理，不需要的请删除72行proxies参数或者取消73行注释 注释72行
