@@ -9,7 +9,7 @@ import asyncio
 # pip3 install telethon pysocks httpx 或者 py -3 -m pip install telethon pysocks httpx
 
 # cookies中间用&分开
-cks = "pt_key=AAJgUY9cADDZKiBsnZ7rA3EGI0pX0PJ4jS9zJF3ne9NMtCkdrPs8VhNG3Xy5OOIodyB4YBpim8o;pt_pin=jd_649ec7af1a5ec;& pt_key=AAJgUY6GADD_KnUxJqocHDx21a6ZfGUX8YwSgWQz5wBzd8eJbtkgnDZqggv-0YbZ2NHq8W4YMsU;pt_pin=jd_759107c713cec;& pt_key=AAJgUY8QADC4j7ufZ5sjvwe4QQSEihMIYcRyftJIttRgq8ZoiZpc4DNWAo7FOWbrV6dUGmvCt-A;pt_pin=jd_VwzBlbldMHzJ;"
+cks = "pt_key=AAJgNQ3cADC5h47652HLrG_bHCt7XKZppGLCXBmJbMYrunYfEf6M_Ke3rz9K4Kih2HSaE8sJVMw;pt_pin=jd_759107c713cec;&pt_key=AAJgNRLAADCPOPg9ojF8VP3da_oInF_Bg0tvzCKXlxh7bvH2KPPQDF3Fn8KL22E9NQrRLWMmsNQ;pt_pin=jd_649ec7af1a5ec;&pt_key=AAJgNRTFADAfDOKs0Z8-S39zLmowi7RkOpnFbdMqhweEESa2Uz8YtJTpPayxmsFCw2QoJiuDGCw;pt_pin=jd_VwzBlbldMHzJ;"
 
 # url1 = 'https://api.m.jd.com/client.action?functionId=liveDrawLotteryV842&body={"lotteryId":666351,"liveId":3656131}&uuid=8888888&client=apple&clientVersion=9.4.1&st=1615429563038&sign=17c699f8504b22f3e0bf961f7a7d941e&sv=121'
 
@@ -83,4 +83,3 @@ async def my_event_handler(event):
 with client:
     client.loop.run_until_complete(main())
     client.loop.run_forever()
-
