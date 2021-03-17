@@ -11,7 +11,7 @@ api_hash = 'b0319bf481a160fda0e057664fcaa6ff'
 tg_user_id = '626602337'
 tg_bot_token = '1664487395:AAG0S2o-fl0Bx5pCd-6XwIUTLQbTB_TXSEI'
 output_msg = True # 是否打印消息
-channel_white_list = [1001427039780] # 过滤频道消息
+channel_white_list = [1663824060] # 过滤频道消息
 cookies = [
         "pt_key=AAJgUY9cADDZKiBsnZ7rA3EGI0pX0PJ4jS9zJF3ne9NMtCkdrPs8VhNG3Xy5OOIodyB4YBpim8o;pt_pin=jd_649ec7af1a5ec;",
         "pt_key=AAJgUY6GADD_KnUxJqocHDx21a6ZfGUX8YwSgWQz5wBzd8eJbtkgnDZqggv-0YbZ2NHq8W4YMsU;pt_pin=jd_759107c713cec;",
