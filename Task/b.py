@@ -33,6 +33,7 @@ client = TelegramClient(
 
 headers = {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1",
+        "Referer": "Referer: https://servicewechat.com/wx4830b51270836408/13/page-frame.html",
         "Cookie": "",
         }
 
