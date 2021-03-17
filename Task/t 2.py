@@ -22,7 +22,7 @@ async def send_live(cks, url):
                 # header
                 header = {
                     "user-agent": "User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.2(0x18000237) NetType/4G Language/zh_CN",
-                    "Referer": https://servicewechat.com/wx4830b51270836408/13/page-frame.html",
+                    "Referer": "https://servicewechat.com/wx4830b51270836408/13/page-frame.html",
                     "Cookie": str_ck[i - 1],
                 }
                 # 访问url
