@@ -6,8 +6,8 @@
 from telethon import TelegramClient, events
 import requests, re, time, os
 
-api_id = '3424893'
-api_hash = 'b0319bf481a160fda0e057664fcaa6ff'
+api_id = ''
+api_hash = ''
 tg_user_id = '626602337'
 tg_bot_token = '1664487395:AAG0S2o-fl0Bx5pCd-6XwIUTLQbTB_TXSEI'
 output_msg = True # 是否打印消息
@@ -33,7 +33,7 @@ client = TelegramClient(
 
 headers = {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1",
-        "Referer": "Referer: https://servicewechat.com/wx4830b51270836408/13/page-frame.html",
+        "Referer": "https://servicewechat.com/wx4830b51270836408/13/page-frame.html",
         "Cookie": "",
         }
 
