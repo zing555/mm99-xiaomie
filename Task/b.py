@@ -37,7 +37,7 @@ headers = {
         "Cookie": "",
         }
 
-cookiesRegex = re.compile(r'pt_pin\=(.*?)',re.S)
+cookiesRegex = re.compile(r'pt_pin=([^;]+)(?=;)',re.S)
 
 f = open("push.txt","w")
 f.write(" ")
